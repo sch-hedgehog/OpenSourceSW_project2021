@@ -1,6 +1,6 @@
 # 순천향대학교 오픈소스 SW Project
 
-Hedgehog
+### 순천향대학교 Hedgehog
 
 ## Maze Game
 
