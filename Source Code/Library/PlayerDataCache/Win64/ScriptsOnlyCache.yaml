@@ -8,8 +8,6 @@ ScriptsOnlyBuild:
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
-    UnityEditor.TestRunner.dll:
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -62,9 +60,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10458}
     - Class: 114
-      Script: {instanceID: 14210}
+      Script: {instanceID: 13982}
     - Class: 114
-      Script: {instanceID: 14222}
+      Script: {instanceID: 13994}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -727,5 +725,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/Mazegame.unity
-  playerPath: "C:/Users/Nevuly/Documents/\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C/20174059_\uACFD\uCC3D\uC8FC
-    (1)/\uD504\uB85C\uC81D\uD2B8/Mazegame_20174059/Mazegame_20174059/kfdkas/Maze game.exe"
+  playerPath: C:/Users/Nevuly/Desktop/kkkkkkk3k2k3k2/Maze game.exe
